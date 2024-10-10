@@ -1,6 +1,7 @@
 # stable-diffusion-lora
 基于stable-diffusion的lora微调项目
 # 服务器出问题暂时搁置
+ ![alt text](image.png)
 ## 持续更新中
 [参考](https://zhuanlan.zhihu.com/p/639030372)
 ## 训练的基本流程
